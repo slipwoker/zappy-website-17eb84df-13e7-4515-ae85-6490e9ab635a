@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover the best online donation platform for multiple causes. Browse compelling imagery, connect with real needs, and make an impact today.
+
+### Causes Atlas
+https://example.com/causes
+Browse our Causes Atlas to support multiple charities on one platform. Each image tells a story of need. Find your cause and donate in seconds.
+
+### About
+https://example.com/about
+Learn how our online donation platform for multiple causes uses powerful imagery to bridge the gap between generosity and need. Transparency first.
+
+### Contact
+https://example.com/contact
+Questions about supporting multiple charities on one platform? Want to feature your cause? Reach out now and join our community of changemakers.
+
+### Products
+https://example.com/products
+Our Products - Donate and buy stuff from totally real things and people!
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Donate and buy stuff from totally real things and people!
+
+### Category
+https://example.com/category/:slug
+Products - Donate and buy stuff from totally real things and people!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
